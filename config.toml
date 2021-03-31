@@ -1,9 +1,9 @@
-baseURL = "https://chris.swanz.net/"
+baseURL = "https://aannttoo.github.io"
 languageCode = "en-us"
-title = "Chris Swan Home Page"
+title = "@anthony's Home page"
 theme = "cpshallo"
 [Author]
-    name = "Chris Swan"
+    name = "Anthony Prakash"
 [params]
     [params.colors]
         background = "#9651b5"
